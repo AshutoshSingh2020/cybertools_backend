@@ -1,0 +1,12 @@
+npm init -y // create package.json file
+npm i express // for create node modules
+npm i mysql // install mysql
+npm i dotenv // create .env file
+npm i  --save-dev nodemon // for hotreload the project
+npm i bcrypt // password decrypt 
+npm i jsonwebtoken // hadle login token
+npm install express axios cheerio  // craling library
+npm install puppeteer // for launch chromium in background
+npm install p-retry // for retry 2 time or 3 times 
+npm install async-retry // "Same for retry"
+node app.js // for run the project
